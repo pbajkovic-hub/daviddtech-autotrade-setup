@@ -1,0 +1,9 @@
+# Never commit these - they carry keys that can trade your account
+alert-message.txt
+dt-sheet.txt
+*.env
+
+# Local noise
+exports/
+.DS_Store
+Thumbs.db
